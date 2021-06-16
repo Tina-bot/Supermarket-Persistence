@@ -19,6 +19,7 @@
 ## Instructions ⚠️
 
 To use it quickly: you need the database (it can be empty or not) that should be called "rest" for persistence to recognize it, the MySQL administrator is the default; root and no password.
+
 💻Anyway you can change the data of the database connection in the persistence folder
 
 📎📎📎📎📎📎📎📎📎📎📎📎📎📎📎📎📎📎📎📎📎📎📎📎📎📎📎📎📎📎📎📎📎📎📎📎📎📎📎📎📎📎📎📎📎📎📎📎📎📎📎📎📎📎📎📎📎📎📎📎📎📎
